@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.vousutils.text.enums","l":"TextType"},{"p":"com.vousutils.network","l":"UtilsIP"},{"p":"com.vousutils.text","l":"UtilsText"}]
